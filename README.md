@@ -8,7 +8,7 @@ Este repositório serve só para distribuir o APK. O código-fonte do app é fec
 
 ## Baixar
 
-➡️ **[Baixar a versão mais recente (rensei.apk)](https://github.com/AnGabSS/rensei-releases/releases/latest/download/rensei.apk)**
+➡️ **[Baixar a versão mais recente (rensei.apk)](https://github.com/AnGabSS/RenseiReleases/releases/download/v0.1.0/rensei.apk)**
 
 Todas as versões e o que mudou em cada uma estão na aba [Releases](https://github.com/AnGabSS/rensei-releases/releases).
 
